@@ -1,6 +1,6 @@
 dropwizard-helloworld
 =====================
-Adding test for CI
+tested again :)
 
 $ mvn clean package
 
